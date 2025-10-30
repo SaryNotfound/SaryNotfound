@@ -8,18 +8,12 @@
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.gif" alt="Bar Chart" width="35" height="35" /> Hola, soy Sara Sierra
+<img src="https://cdn.dribbble.com/users/1090020/screenshots/6949909/team_work.gif" alt="Agile Team Workflow" align="right" width="300">
 
-<picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
-</picture>
+Soy una estudiante de Ingeniería de Sistemas apasionada por construir soluciones tecnológicas centradas en el usuario y gestionar equipos ágiles de alto rendimiento.
 
-- 🎓 I'm a **Systems Engineering student** passionate about technology and agile teamwork.  
-- 🚀 I’ve led **student projects** as a Product Owner and Scrum Master, applying agile methodologies to deliver impactful results.  
-- 💡 I combine my experience in **frontend development** and **UX/UI design** to build user-centered digital products.  
-- 🤝 I enjoy collaborating, improving processes, and motivating teams toward success.  
-- ⚙️ Tools I use: VS Code, GitHub, Figma, Trello, Notion, Postman, and Agile frameworks.  
-- 🌱 Currently learning more about **product strategy**, **agile leadership**, and **AI-driven solutions**.  
+Mi enfoque se centra en el Product Ownership y el rol de Scrum Master. Cuento con experiencia liderando proyectos estudiantiles bajo metodologías Scrum, disfrutando el proceso de guiar a los equipos desde la ideación hasta el despliegue, asegurando siempre una comunicación fluida y la entrega de valor continuo.
 
 ---
 
@@ -44,7 +38,7 @@
   <a href="mailto:whatsara26@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="[https://www.linkedin.com/in/sara-sierra/](https://www.linkedin.com/in/sara-sierra-oliveros-a3289a2b7/)" target="_blank">
+  <a href="https://www.linkedin.com/in/sara-sierra-oliveros-a3289a2b7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
